@@ -25,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=barisgungor10&icon=8&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=barisgungor10&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
