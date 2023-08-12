@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student on Computer Science / Management Information Systems<br>🤝 I’m looking for help with Internships / Jobs<br>🌱 I’m currently learning Python<br>💬 Basis Knowledge of C/C++
+🔭 I’m currently a student at Computer Science / Management Information Systems<br>🤝 I’m looking for help with Internships / Jobs<br>🌱 I’m presently learning Python<br>💬 Basis Knowledge of C/C++
 
 
 ## 🌐 Socials:
