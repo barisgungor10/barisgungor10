@@ -26,12 +26,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/barisgungor10/barisgungor10/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://profile-counter.glitch.me/barisgungor10/count.svg?"  />
 
 ###
