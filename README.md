@@ -25,7 +25,3 @@
 </div>
 
 ###
-
-<img align="left" src="https://profile-counter.glitch.me/barisgungor10/count.svg?"  />
-
-###
