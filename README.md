@@ -1,4 +1,4 @@
-<h2 align="left">💫 I’m currently a student in Computer Science / Management Information Systems<br>🤝 I’m looking for help with Internships / Jobs<br>🌱 I’m presently learning Python<br>💬 Basis Knowledge of C/C++</h2>
+<h2 align="left">💫 I’m currently a student in Computer Science <br>🤝 I’m looking for help with Internships / Jobs<br>🌱 I’m presently learning Python<br>💬 Basis Knowledge of C/C++</h2>
 <div align="left">
 
 ###
